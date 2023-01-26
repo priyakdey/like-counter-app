@@ -1,0 +1,23 @@
+.counter {
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    height: 50px;
+    width: auto;
+}
+
+.btn-div {
+    text-align: center;
+    margin: 10px;
+    padding: 2px;
+}
+
+.button {
+    margin: 10px;
+}
+
+.button:hover {
+    overflow: hidden;
+    transform: scale(1.1);
+    transition: transform 0.2s ease;
+}
